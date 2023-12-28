@@ -1,0 +1,19 @@
+	Welcome webcode reatil
+
+ Bill no: 4103
+ Customer name: Shekhar
+ Phone no: 860098531
+ Gst no: 21
+=======================================
+ products			QTY 	Price
+=======================================
+ Pav Bhaji			2	230
+ Kadhi			3	270
+ Jeera Rice			1	85
+ Sambhar			1	40
+---------------------------------------
+ Vegetable tax			Rs. 11.5
+ Dal & rice tax			Rs. 17.75
+ south indian tax			Rs. 2.0
+ Total bill: 			Rs. 656.25
+---------------------------------------

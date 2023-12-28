@@ -1,0 +1,20 @@
+	Welcome webcode reatil
+
+ Bill no: 1229
+ Customer name: Shekhar Pawar
+ Phone no: 8600672101
+ Gst no: 52
+=======================================
+ products			QTY 	Price
+=======================================
+ Mix veg			2	240
+ Veg Kolhapuri			1	0
+ dal Fry			1	95
+ Pulav			1	90
+ Dusha			2	60
+---------------------------------------
+ Vegetable tax			Rs. 19.5
+ Dal & rice tax			Rs. 9.25
+ south indian tax			Rs. 3.0
+ Total bill: 			Rs. 666.75
+---------------------------------------

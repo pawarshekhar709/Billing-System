@@ -1,0 +1,21 @@
+	Welcome webcode reatil
+
+ Bill no: 4315
+ Customer name: Shekhar
+ Phone no: 8600672101
+ Gst no: 45
+=======================================
+ products			QTY 	Price
+=======================================
+ Mix veg			5	600
+ Pav Bhaji			2	230
+ Veg Kolhapuri			5	0
+ Black Dal			1	95
+ Kadhi			5	450
+ Idlli			2	40
+---------------------------------------
+ Vegetable tax			Rs. 79.0
+ Dal & rice tax			Rs. 27.25
+ south indian tax			Rs. 2.0
+ Total bill: 			Rs. 2273.25
+---------------------------------------

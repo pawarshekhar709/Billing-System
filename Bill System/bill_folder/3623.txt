@@ -1,0 +1,20 @@
+	Welcome webcode reatil
+
+ Bill no: 3623
+ Customer name: Shekhar
+ Phone no: 8600
+ Gst no: 20
+=======================================
+ products			QTY 	Price
+=======================================
+ Chhole			1	115
+ Kadhi			5	450
+ Biryani			1	100
+ Sambhar			4	160
+ Coconut Chutney			7	140
+---------------------------------------
+ Vegetable tax			Rs. 5.75
+ Dal & rice tax			Rs. 27.5
+ south indian tax			Rs. 15.0
+ Total bill: 			Rs. 1013.25
+---------------------------------------

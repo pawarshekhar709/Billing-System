@@ -1,0 +1,20 @@
+	Welcome webcode reatil
+
+ Bill no: 8019
+ Customer name: Shekhar
+ Phone no: 86
+ Gst no: 45
+=======================================
+ products			QTY 	Price
+=======================================
+ Mix veg			4	480
+ dal Fry			4	380
+ Biryani			1	100
+ Pulav			7	630
+ Lemon Rice			4	320
+---------------------------------------
+ Vegetable tax			Rs. 24.0
+ Dal & rice tax			Rs. 55.5
+ south indian tax			Rs. 16.0
+ Total bill: 			Rs. 2005.5
+---------------------------------------
