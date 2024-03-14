@@ -1,17 +1,4 @@
-# Billing Software
 
-This is a simple billing software developed using Tkinter in Python.
-
-## Features
-
-- **Customer Details:** Allows users to enter customer details such as name, phone number, and GST number.
-- **Product Categories:** Divided into vegetable, dal & rice, and South Indian categories.
-- **Billing Area:** Displays the selected products along with quantities and prices.
-- **Total Calculation:** Calculates the total price and tax for each category and overall bill.
-- **Save Bill:** Allows users to save the generated bill to a file.
-- **Search Bill:** Users can search for a previously saved bill using the bill number.
-
-## Usage
 
 1. Run the script using `python billing_software.py`.
 2. Enter customer details and select products from different categories.
