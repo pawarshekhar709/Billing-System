@@ -1,8 +1,4 @@
-# Billing Software
 
-This is a simple billing software developed using Tkinter in Python.
-
-## Features
 
 - **Customer Details:** Allows users to enter customer details such as name, phone number, and GST number.
 - **Product Categories:** Divided into vegetable, dal & rice, and South Indian categories.
